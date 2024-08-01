@@ -3,7 +3,6 @@ package com.example.loginfunc.controller;
 import com.example.loginfunc.dto.UserDTO;
 import com.example.loginfunc.entity.User;
 import com.example.loginfunc.service.UserService;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
